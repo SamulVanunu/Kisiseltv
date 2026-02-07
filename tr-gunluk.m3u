@@ -1,0 +1,71 @@
+#EXTM3U
+
+##### HABER #####
+#EXTINF:-1 group-title="Haber",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_1440p.m3u8
+#EXTINF:-1 group-title="Haber",NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=858q7ia5na8i&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
+#EXTINF:-1 group-title="Haber",HABERTÜRK
+https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=858q22h0i5ov&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+#EXTINF:-1 group-title="Haber",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+
+##### ULUSAL #####
+#EXTINF:-1 group-title="Ulusal",TRT 1
+https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=858or63vbr5i&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 group-title="Ulusal",NOWTV
+
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1770440737&st=igbuAeDw1v8vZv9VnhI8zA
+
+#EXTINF:-1 group-title="Ulusal",TV 8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=858qhktdo4bu&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 group-title="Ulusal",STARTV
+https://dogus.daioncdn.net/startv/startv_480p.m3u8?&sid=858qso1qn736&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1 group-title="Ulusal",KANALD
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=858pcpcs3550&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+#EXTINF:-1 group-title="Ulusal",SHOWTV
+https://ciner.daioncdn.net/showtv/showtv_360p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=858ppe0xglyp&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+
+
+##### TRT AİLESİ #####
+#EXTINF:-1 group-title="TRT Ailesi",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT Ailesi",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT Ailesi",TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 group-title="TRT Ailesi",TRT MÜZİK
+https://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 group-title="TRT Ailesi",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT Ailesi",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 group-title="TRT Ailesi",TRT KÜRDİ
+https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 group-title="TRT Ailesi",TRT ARABİ
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT Ailesi",TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="TRT Ailesi",TRT DİYANET
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 group-title="TRT Ailesi",TRTGENC
+https://tv-trtgenc.medya.trt.com.tr/master_1440.m3u8
+
+
+##### EĞİTİM #####
+#EXTINF:-1 group-title="Eğitim",TRT EBA ORTAOKUL
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+
+
+##### BELGESEL / EĞLENCE #####
+#EXTINF:-1 group-title="Belgesel / Eğlence",DMAX
+https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=bnE5L05nL29VdkVkc0VobklleUtpOGh5ajdsMzBPLy9tVDMrODUxQVU1ND0=&sid=85c58fqfe8zv&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
+#EXTINF:-1 group-title="Belgesel / Eğlence",TLC
+https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=YVBoMk1ib2VoQnB3WXJzR0RMeUxDeHVWZThUZjllc2ljR09GOTFxSHdQST0=
+
+
+##### NOSTALJİ / GENEL #####
+#EXTINF:-1 group-title="Nostalji / Genel",BEYAZ TV
+https://beyaztv.daioncdn.net/beyaztv/beyaztv_480p.m3u8?&sid=858ru2gihfny&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
