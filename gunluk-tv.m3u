@@ -1,0 +1,123 @@
+#EXTM3U
+
+##### 1. GÜNLÜK ANA KANALLAR #####
+
+#EXTINF:-1 group-title="GÜNLÜK",TRT 1
+https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=858or63vbr5i&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+
+#EXTINF:-1 group-title="GÜNLÜK",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=858pcpcs3550&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+
+
+#EXTINF:-1 group-title="GÜNLÜK",SHOW TV
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=85fp5z8hvtzy&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+
+#EXTINF:-1 group-title="GÜNLÜK",STAR TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=85fpc335agsq&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+
+#EXTINF:-1 group-title="GÜNLÜK",TV8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=858qhktdo4bu&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+
+#EXTINF:-1 group-title="GÜNLÜK",NOW TV
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=f0xdsJuFv3LXo-RlCubl9A&e=1770566276
+
+#EXTINF:-1 group-title="GÜNLÜK",KANAL 7
+https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=85fn0t03gwt0&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+
+
+##### 2. HABER #####
+
+#EXTINF:-1 group-title="HABER",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="HABER",NTV
+https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=85fsmy67yv1a&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
+
+#EXTINF:-1 group-title="HABER",HABERTÜRK
+https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=85fsqnpextb1&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+
+#EXTINF:-1 group-title="HABER",CNN TÜRK
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=6E8nbq7tUomBWHFnXEkv_w&e=1770560656
+
+
+#EXTINF:-1 group-title="HABER",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+
+
+
+##### 3. TRT ÖZEL #####
+
+#EXTINF:-1 group-title="TRT ÖZEL",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="TRT ÖZEL",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="TRT ÖZEL",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="TRT ÖZEL",TRT MÜZİK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+
+
+##### 4. AİLE / EĞİTİM #####
+
+#EXTINF:-1 group-title="AİLE / EĞİTİM",TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8
+
+
+#EXTINF:-1 group-title="AİLE / EĞİTİM",TRT EBA ORTAOKUL
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="AİLE / EĞİTİM",TRT DİYANET
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1440.m3u8
+
+
+#EXTINF:-1 group-title="AİLE / EĞİTİM",TRT GENÇ
+https://tv-trtgenc.medya.trt.com.tr/master_1440.m3u8
+
+
+
+##### 5. ULUSLARARASI TRT #####
+
+#EXTINF:-1 group-title="ULUSLARARASI TRT",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="ULUSLARARASI TRT",TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
+
+
+#EXTINF:-1 group-title="ULUSLARARASI TRT",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8
+
+
+#EXTINF:-1 group-title="ULUSLARARASI TRT",TRT ARABİ
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="ULUSLARARASI TRT",TRT KÜRDİ
+https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
+
+
+
+##### 6. EĞLENCE / BELGESEL #####
+
+#EXTINF:-1 group-title="EĞLENCE",DMAX
+https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=bnE5L05nL29VdkVkc0VobklleUtpOGh5ajdsMzBPLy9tVDMrODUxQVU1ND0=&sid=85c58fqfe8zv&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
+
+
+#EXTINF:-1 group-title="EĞLENCE",TLC
+https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=YVBoMk1ib2VoQnB3WXJzR0RMeUxDeHVWZThUZjllc2ljR09GOTFxSHdQST0=
+
+
+#EXTINF:-1 group-title="EĞLENCE",TV2
+https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=85fmn7bhs5b6&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
+
