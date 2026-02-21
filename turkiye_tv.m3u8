@@ -46,7 +46,7 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=864lbs7ev5dm&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
 #EXTINF:-1 tvg-name="NOW TV" group-title="Ulusal",NOW TV
-https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1771310723&st=E3SX9otpxSVtxqmbeRTOrA
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=SOFN2iNEsHJ5Kf0wkTwovw&e=1771680882
 
 
 #EXTINF:-1 tvg-name="TV8" group-title="Ulusal",TV8
@@ -56,7 +56,7 @@ https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=864lji35kkyl&app=7ddc255a-ef47-
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-name="CNN Türk" group-title="Haber",CNN Türk
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=NNd3ZQ-3qGbWQIgtJB3HwA&e=1771264068
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=qG3vhQcNLjHpSqWzYkev5Q&e=1771677467
 
 #EXTINF:-1 tvg-name="NTV" group-title="Haber",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
@@ -66,7 +66,7 @@ https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=864lzq3beoxc&a
 
 
 #EXTINF:-1 tvg-name="A Haber" group-title="Haber",A Haber
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=TAQt2yCoc0ATJ-SanFL_Jw&e=1771297067
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=B_tmS4t-urWYkuKbAlVsZw&e=1771712093
 
 
 #EXTINF:-1 tvg-name="TV100" group-title="Haber",TV100
@@ -78,20 +78,12 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-name="Teve2" group-title="Ulusal",TV 2
 https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=868m6txoghpa&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
 
-#EXTINF:-1 tvg-name="Minika Go" group-title="Çocuk",Minika Go
-https://trkvz.daioncdn.net/minikago/minikago_720p.m3u8?e=1771297360&st=4tWA_OJRHKsPWLKjLpDggg&sid=868mas25i5a8&app=be451f3e-b8d8-4edd-8469-1030b5ad7fd3&ce=3
-
-
-#EXTINF:-1 tvg-name="Minika Çocuk" group-title="Çocuk",Minika Çocuk
-https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk_720p.m3u8?e=1771297476&st=kq0B7hQF-bXJGPaMq7RXOQ&sid=868mh2er1dbi&app=8e9e79c3-44e3-4a41-a921-1d8f0e7887c0&ce=3
-
-
 #EXTINF:-1 tvg-name="Kanal 7" group-title="Ulusal",Kanal 7
 https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=868mlm2j49hj&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 
 
 #EXTINF:-1 tvg-name="A2" group-title="Ulusal",A2
-https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1771297642&st=EJigtrL06Q97pNXrNx_tDQ&sid=868mpunmx4rv&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
+https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1771712200&st=X4bZnyCyjiHcqN4G9ThNpA&sid=86pr299cyig5&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
 
 
 #EXTINF:-1 tvg-name="DMAX" group-title="Belgesel",DMAX
@@ -100,7 +92,3 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=U00zUjVXUG14WTlUSkhYZnl2Q0R
 
 #EXTINF:-1 tvg-name="24 TV" group-title="Haber",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
-
-
-#EXTINF:-1 tvg-name="A Para" group-title="Ekonomi",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd_720p.m3u8?st=-ngfXFjs2avxlI1tNQrPPQ&e=1771298651
